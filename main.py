@@ -1,3 +1,7 @@
+# Saya <nama lengkap> mengerjakan evaluasi Tugas Praktikum 3 DPBO dalam mata kuliah Desain dan Pemrograman 
+# Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. 
+# Aamiin.
+
 from tkinter import *
 from tkinter import messagebox, filedialog
 from tkinter.ttk import Combobox, Checkbutton, Radiobutton
